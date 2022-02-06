@@ -1,0 +1,12 @@
+<RCC>
+    <qresource>
+        <file>re/try0.png</file>
+        <file>re/try1.png</file>
+        <file>re/try2.png</file>
+        <file>re/try3.png</file>
+        <file>re/try4.png</file>
+        <file>re/try5.png</file>
+        <file>re/try6.png</file>
+        <file>re/dico.txt</file>
+    </qresource>
+</RCC>
