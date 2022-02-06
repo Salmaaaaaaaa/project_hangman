@@ -1,8 +1,6 @@
-# project_hangman
 
 
-
- ![](./pictures/hang.png)
+ ![](./hang.png)
 
 
 ![](./goal.gif)
